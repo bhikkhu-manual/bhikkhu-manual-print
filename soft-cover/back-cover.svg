@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="111mm"
+   height="154mm"
+   viewBox="0 0 111 154"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="back-cover.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clipPath1963"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="0"
+         x="0"
+         height="154"
+         width="111"
+         id="rect1965"
+         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.264999" />
+    </clipPath>
+    <clipPath
+       id="clipPath2781"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="0"
+         x="0"
+         height="154"
+         width="111"
+         id="rect2783"
+         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.264999" />
+    </clipPath>
+    <clipPath
+       id="clipPath3120"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.264999"
+         id="rect3122"
+         width="111"
+         height="154"
+         x="0"
+         y="0" />
+    </clipPath>
+    <filter
+       height="1.5078304"
+       y="-0.25391521"
+       width="1.0680388"
+       x="-0.034019379"
+       id="filter5360"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur5362"
+         stdDeviation="0.58463226"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-center="true"
+     inkscape:snap-global="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="67.91797"
+     inkscape:cy="423.3597"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g5340"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     width="111mm"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="55.5,77"
+       orientation="1,0"
+       id="guide835" />
+    <sodipodi:guide
+       position="55.5,77"
+       orientation="0,-1"
+       id="guide837" />
+    <sodipodi:guide
+       position="2.9999998,151"
+       orientation="1,0"
+       id="guide839" />
+    <sodipodi:guide
+       position="108,151"
+       orientation="1,0"
+       id="guide841" />
+    <sodipodi:guide
+       position="108,151"
+       orientation="0,-1"
+       id="guide843" />
+    <sodipodi:guide
+       position="108,3"
+       orientation="0,-1"
+       id="guide845" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     id="g3116"
+     inkscape:label="bg image"
+     style="display:inline;opacity:1">
+    <image
+       xlink:href="../images/leaf.jpg"
+       clip-path="url(#clipPath3120)"
+       id="image3114"
+       preserveAspectRatio="none"
+       height="243.93878"
+       width="162.60196"
+       x="-26.480846"
+       y="-44.445251" />
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     id="g5340"
+     inkscape:label="text blur"
+     style="display:inline;filter:url(#filter5360)">
+    <text
+       id="text5338"
+       y="136.81729"
+       x="35.153282"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5336"
+         x="35.153282"
+         y="136.81729">for free distribution</tspan></text>
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     style="display:inline"
+     inkscape:label="text"
+     id="layer11"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#faa41b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="35.153282"
+       y="136.81729"
+       id="text7763"><tspan
+         y="136.81729"
+         x="35.153282"
+         id="tspan3166"
+         sodipodi:role="line">for free distribution</tspan></text>
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     style="display:none;opacity:0.464687"
+     inkscape:label="page area overlay"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008080;stroke:none;stroke-width:0.264999"
+       id="rect833"
+       width="105"
+       height="148"
+       x="2.9999998"
+       y="3.0000002" />
+  </g>
+</svg>

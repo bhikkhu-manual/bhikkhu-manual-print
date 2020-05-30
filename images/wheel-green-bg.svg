@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="wheel green bg.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 66 66"
+   height="66mm"
+   width="66mm"
+   inkscape:export-xdpi="300.03751"
+   inkscape:export-ydpi="300.03751">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1963">
+      <rect
+         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.264999"
+         id="rect1965"
+         width="111"
+         height="154"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2781">
+      <rect
+         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.264999"
+         id="rect2783"
+         width="111"
+         height="154"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1599">
+      <rect
+         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.264999"
+         id="rect1601"
+         width="105"
+         height="148"
+         x="2.9999998"
+         y="3.0000002" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     lock-margins="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="37"
+     inkscape:window-x="0"
+     inkscape:window-height="1043"
+     inkscape:window-width="1920"
+     inkscape:snap-object-midpoints="true"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-page="true"
+     width="111mm"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer10"
+     inkscape:document-units="mm"
+     inkscape:cy="59.016288"
+     inkscape:cx="115.95342"
+     inkscape:zoom="1.0846086"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-global="true"
+     inkscape:snap-center="true"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:snap-to-guides="false">
+    <sodipodi:guide
+       id="guide845"
+       orientation="0,-1"
+       position="85.499998,-64.226699" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="wheel image"
+     style="display:inline"
+     transform="translate(-22.5,-20.7733)">
+    <circle
+       style="opacity:1;fill:#1a3c03;fill-opacity:1;stroke-width:0.264999"
+       id="path2880"
+       cx="55.5"
+       cy="53.7733"
+       r="32" />
+    <image
+       xlink:href="dhammacakka-circle-outline.png"
+       y="23.773298"
+       x="25.5"
+       width="60"
+       height="60"
+       preserveAspectRatio="none"
+       id="image2876" />
+  </g>
+</svg>
