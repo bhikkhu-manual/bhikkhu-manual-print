@@ -8,112 +8,112 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="111mm"
-   height="154mm"
-   viewBox="0 0 111 154"
-   version="1.1"
+   sodipodi:docname="back-cover.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
    id="svg8"
-   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
-   sodipodi:docname="back-cover.svg">
+   version="1.1"
+   viewBox="0 0 111 154"
+   height="154mm"
+   width="111mm">
   <defs
      id="defs2">
     <clipPath
-       id="clipPath1963"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="0"
-         x="0"
-         height="154"
-         width="111"
-         id="rect1965"
-         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.264999" />
-    </clipPath>
-    <clipPath
-       id="clipPath2781"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="0"
-         x="0"
-         height="154"
-         width="111"
-         id="rect2783"
-         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.264999" />
-    </clipPath>
-    <clipPath
-       id="clipPath3120"
-       clipPathUnits="userSpaceOnUse">
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1963">
       <rect
          style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.264999"
-         id="rect3122"
+         id="rect1965"
          width="111"
          height="154"
          x="0"
          y="0" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2781">
+      <rect
+         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.264999"
+         id="rect2783"
+         width="111"
+         height="154"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3120">
+      <rect
+         y="0"
+         x="0"
+         height="154"
+         width="111"
+         id="rect3122"
+         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.264999" />
+    </clipPath>
     <filter
-       height="1.5078304"
-       y="-0.25391521"
-       width="1.0680388"
-       x="-0.034019379"
-       id="filter5360"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter5360"
+       x="-0.034019379"
+       width="1.0680388"
+       y="-0.25391521"
+       height="1.5078304">
       <feGaussianBlur
-         id="feGaussianBlur5362"
+         inkscape:collect="always"
          stdDeviation="0.58463226"
-         inkscape:collect="always" />
+         id="feGaussianBlur5362" />
     </filter>
   </defs>
   <sodipodi:namedview
-     inkscape:snap-center="true"
-     inkscape:snap-global="true"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="67.91797"
-     inkscape:cy="423.3597"
-     inkscape:document-units="mm"
-     inkscape:current-layer="g5340"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     width="111mm"
-     inkscape:snap-page="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="0"
+     inkscape:window-maximized="1"
      inkscape:window-y="37"
-     inkscape:window-maximized="1">
+     inkscape:window-x="0"
+     inkscape:window-height="1043"
+     inkscape:window-width="1920"
+     inkscape:snap-object-midpoints="true"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-page="true"
+     width="111mm"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g3116"
+     inkscape:document-units="mm"
+     inkscape:cy="309.07399"
+     inkscape:cx="67.91797"
+     inkscape:zoom="1.4"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-global="true"
+     inkscape:snap-center="true">
     <sodipodi:guide
-       position="55.5,77"
+       id="guide835"
        orientation="1,0"
-       id="guide835" />
+       position="55.5,77" />
     <sodipodi:guide
-       position="55.5,77"
+       id="guide837"
        orientation="0,-1"
-       id="guide837" />
+       position="55.5,77" />
     <sodipodi:guide
-       position="2.9999998,151"
+       id="guide839"
        orientation="1,0"
-       id="guide839" />
+       position="2.9999998,151" />
     <sodipodi:guide
-       position="108,151"
+       id="guide841"
        orientation="1,0"
-       id="guide841" />
+       position="108,151" />
     <sodipodi:guide
-       position="108,151"
+       id="guide843"
        orientation="0,-1"
-       id="guide843" />
+       position="108,151" />
     <sodipodi:guide
-       position="108,3"
+       id="guide845"
        orientation="0,-1"
-       id="guide845" />
+       position="108,3" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -123,17 +123,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      sodipodi:insensitive="true"
-     inkscape:groupmode="layer"
-     id="g3116"
+     style="display:inline;opacity:1"
      inkscape:label="bg image"
-     style="display:inline;opacity:1">
+     id="g3116"
+     inkscape:groupmode="layer">
     <image
+       sodipodi:absref="/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual-print/covers/images/leaf.jpg"
        xlink:href="../images/leaf.jpg"
        clip-path="url(#clipPath3120)"
        id="image3114"
@@ -141,54 +142,55 @@
        height="243.93878"
        width="162.60196"
        x="-26.480846"
-       y="-44.445251" />
+       y="-44.445251"
+       transform="matrix(-1,0,0,1,111,0)" />
   </g>
   <g
-     sodipodi:insensitive="true"
-     inkscape:groupmode="layer"
-     id="g5340"
+     style="display:inline;filter:url(#filter5360)"
      inkscape:label="text blur"
-     style="display:inline;filter:url(#filter5360)">
+     id="g5340"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
-       id="text5338"
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="35.153282"
+       y="136.81729"
+       id="text5338"><tspan
+         y="136.81729"
+         x="35.153282"
+         id="tspan5336"
+         sodipodi:role="line">for free distribution</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="text"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       id="text7763"
        y="136.81729"
        x="35.153282"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#faa41b;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         id="tspan5336"
+         id="tspan3166"
          x="35.153282"
          y="136.81729">for free distribution</tspan></text>
   </g>
   <g
-     sodipodi:insensitive="true"
-     style="display:inline"
-     inkscape:label="text"
-     id="layer11"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#faa41b;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.153282"
-       y="136.81729"
-       id="text7763"><tspan
-         y="136.81729"
-         x="35.153282"
-         id="tspan3166"
-         sodipodi:role="line">for free distribution</tspan></text>
-  </g>
-  <g
-     sodipodi:insensitive="true"
-     style="display:none;opacity:0.464687"
-     inkscape:label="page area overlay"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="page area overlay"
+     style="display:none;opacity:0.464687"
+     sodipodi:insensitive="true">
     <rect
-       style="fill:#008080;stroke:none;stroke-width:0.264999"
-       id="rect833"
-       width="105"
-       height="148"
+       y="3.0000002"
        x="2.9999998"
-       y="3.0000002" />
+       height="148"
+       width="105"
+       id="rect833"
+       style="fill:#008080;stroke:none;stroke-width:0.264999" />
   </g>
 </svg>

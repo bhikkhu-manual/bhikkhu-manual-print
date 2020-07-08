@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="hard-cover.svg"
-   inkscape:version="1.0 (1.0+r73+1)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 301.5 218"
+   width="301.5mm"
    height="218mm"
-   width="301.5mm">
+   viewBox="0 0 301.5 218"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="hard-cover.svg">
   <defs
      id="defs2">
     <filter
@@ -68,15 +68,27 @@
          style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.314418" />
     </clipPath>
     <clipPath
-       id="clipPath5120"
+       id="clip1">
+      <path
+         id="path1196"
+         d="M 27 27 L 806.53125 27 L 806.53125 548.578125 L 27 548.578125 Z M 27 27 " />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <path
+         id="path1199"
+         d="M 0 0 L 833.53125 0 L 833.53125 575.578125 L 0 575.578125 Z M 0 0 " />
+    </clipPath>
+    <clipPath
+       id="clipPath1007"
        clipPathUnits="userSpaceOnUse">
       <rect
-         y="-17"
-         x="-8.9009609e-07"
-         height="188"
-         width="128"
-         id="rect5122"
-         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.314418" />
+         style="opacity:1;fill:#00ffff;fill-opacity:0.463168;stroke-width:0.314418"
+         id="rect1009"
+         width="127.80832"
+         height="184"
+         x="-4.8083234"
+         y="-15.000001" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -86,11 +98,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="469.72205"
-     inkscape:cy="317.67982"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="682.44919"
+     inkscape:cy="563.59483"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1001"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-page="true"
@@ -128,27 +140,33 @@
     <sodipodi:guide
        id="guide4329"
        orientation="0,-1"
-       position="266.49999,183" />
+       position="273.25,186" />
     <sodipodi:guide
        id="guide4331"
        orientation="1,0"
-       position="266.49999,183" />
+       position="273.25,186" />
     <sodipodi:guide
        id="guide4333"
        orientation="0,-1"
-       position="266.49999,35" />
+       position="273.25,32" />
     <sodipodi:guide
        id="guide4341"
        orientation="1,0"
-       position="35.000003,35" />
+       position="28.250001,32" />
     <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
        id="guide4345"
-       orientation="1,0"
-       position="213.99999,109" />
+       orientation="-1,0"
+       position="220.5,109" />
     <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
        id="guide4347"
-       orientation="1,0"
-       position="87.500002,109" />
+       orientation="-1,0"
+       position="80.999999,109" />
     <sodipodi:guide
        id="guide5111"
        orientation="1,0"
@@ -157,6 +175,14 @@
        id="guide5118"
        orientation="1,0"
        position="158.5,186" />
+    <sodipodi:guide
+       id="guide1005"
+       orientation="0,-1"
+       position="288.24999,201" />
+    <sodipodi:guide
+       id="guide1014"
+       orientation="0,-1"
+       position="288.24999,17" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -182,17 +208,17 @@
        id="layer11"
        inkscape:groupmode="layer">
       <image
-         sodipodi:absref="/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual_covers/images/leaf.jpg"
+         sodipodi:absref="/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual-print/covers/images/leaf.jpg"
          xlink:href="../images/leaf.jpg"
-         transform="translate(158.5,31.999997)"
-         y="-44.445251"
-         x="-26.480846"
-         width="162.60196"
-         height="243.93878"
-         preserveAspectRatio="none"
+         style="display:inline;opacity:1"
+         clip-path="url(#clipPath1007)"
          id="image3114"
-         clip-path="url(#clipPath5120)"
-         style="display:inline;opacity:1" />
+         preserveAspectRatio="none"
+         height="243.93878"
+         width="162.60196"
+         x="-26.480846"
+         y="-44.445251"
+         transform="translate(165.25,31.999997)" />
     </g>
     <g
        sodipodi:insensitive="true"
@@ -202,7 +228,7 @@
       <g
          style="display:inline"
          id="g2035"
-         transform="matrix(0.859375,0,0,0.859375,161.80499,35.062168)">
+         transform="matrix(0.859375,0,0,0.859375,168.55499,35.062168)">
         <g
            id="g2039"
            transform="translate(5.2360165,8.5625002)">
@@ -213,25 +239,25 @@
              id="path2880-3"
              style="fill:#000000;fill-opacity:0.304775;stroke-width:0.264999" />
           <image
-             sodipodi:absref="/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual_covers/images/dhammacakka-circle-outline.png"
+             sodipodi:absref="/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual-print/covers/images/dhammacakka-circle-outline.png"
              xlink:href="../images/dhammacakka-circle-outline.png"
-             id="image2876-6"
-             preserveAspectRatio="none"
-             height="60"
-             width="60"
+             y="23.773298"
              x="25.5"
-             y="23.773298" />
+             width="60"
+             height="60"
+             preserveAspectRatio="none"
+             id="image2876-6" />
         </g>
       </g>
     </g>
     <g
        sodipodi:insensitive="true"
-       style="filter:url(#filter4325)"
+       style="display:inline;filter:url(#filter4325)"
        inkscape:label="text blur 1"
        id="layer13"
        inkscape:groupmode="layer">
       <g
-         transform="translate(158.5,31.999997)"
+         transform="translate(165.25,31.999997)"
          aria-label="BHIKKHU MANUAL"
          id="text5077"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.264583px;word-spacing:0.79375px;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter5334)">
@@ -302,7 +328,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(158.5,31.999997)"
+         transform="translate(165.25,31.999997)"
          aria-label="Handbook Edition"
          id="text5081"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter5334)">
@@ -383,7 +409,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(158.5,31.999997)"
+         transform="translate(165.25,31.999997)"
          aria-label="Essential Chants and Vinaya Notes"
          id="text5085"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter5334)">
@@ -542,35 +568,35 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.264583px;word-spacing:0.79375px;display:inline;fill:#faa41b;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="179.96927"
+         x="186.71927"
          y="139.37088"
          id="text1780-4"><tspan
            sodipodi:role="line"
            id="tspan1778-6"
-           x="179.96927"
+           x="186.71927"
            y="139.37088"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.264583px;word-spacing:0.79375px;fill:#faa41b;fill-opacity:1;stroke-width:0.264583">BHIKKHU MANUAL</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#faa41b;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="191.44438"
+         x="198.19438"
          y="160.12515"
          id="text7759"><tspan
            sodipodi:role="line"
            id="tspan7757"
-           x="191.44438"
+           x="198.19438"
            y="160.12515"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#faa41b;fill-opacity:1;stroke-width:0.264583">Handbook Edition</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#faa41b;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="177.75487"
+         x="184.50487"
          y="168.81729"
          id="text7763-4"><tspan
            style="stroke-width:0.264583"
            sodipodi:role="line"
            id="tspan7771-2"
-           x="177.75487"
+           x="184.50487"
            y="168.81729">Essential Chants and Vinaya Notes</tspan></text>
     </g>
   </g>
@@ -582,20 +608,21 @@
      inkscape:label="back">
     <g
        sodipodi:insensitive="true"
+       style="display:inline"
        inkscape:label="bg image 1"
        id="layer15"
        inkscape:groupmode="layer">
       <image
-         sodipodi:absref="/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual_covers/images/leaf.jpg"
+         sodipodi:absref="/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual-print/covers/images/leaf.jpg"
          xlink:href="../images/leaf.jpg"
-         transform="translate(32.000002,31.999997)"
+         transform="matrix(-1,0,0,1,136.25002,31.999998)"
          y="-44.445251"
          x="-26.480846"
          width="162.60196"
          height="243.93878"
          preserveAspectRatio="none"
-         id="image3114-8"
-         clip-path="url(#clipPath5113)"
+         id="image1011"
+         clip-path="url(#clipPath1007)"
          style="display:inline;opacity:1" />
     </g>
     <g
@@ -607,13 +634,13 @@
       <text
          id="text5338"
          y="168.81729"
-         x="67.153282"
+         x="60.403282"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter5360)"
          xml:space="preserve"><tspan
            style="stroke-width:0.264583"
            sodipodi:role="line"
            id="tspan5336"
-           x="67.153282"
+           x="60.403282"
            y="168.81729">for free distribution</tspan></text>
     </g>
     <g
@@ -624,12 +651,12 @@
       <text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#faa41b;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="67.153282"
+         x="60.403282"
          y="168.81729"
          id="text7763-3"><tspan
            style="stroke-width:0.264583"
            y="168.81729"
-           x="67.153282"
+           x="60.403282"
            id="tspan3166"
            sodipodi:role="line">for free distribution</tspan></text>
     </g>
@@ -648,12 +675,13 @@
       <rect
          style="display:inline;fill:#143500;fill-opacity:1;stroke-width:0.256212"
          id="rect5012"
-         width="21.5"
-         height="188"
+         width="21.500002"
+         height="184"
          x="140"
-         y="14.999998" />
+         y="16.999996" />
     </g>
     <g
+       sodipodi:insensitive="true"
        style="filter:url(#filter3067)"
        inkscape:label="text blur"
        id="layer9"
@@ -684,6 +712,7 @@
            y="-149.52011">Essential Chants and Vinaya Notes</tspan></text>
     </g>
     <g
+       sodipodi:insensitive="true"
        inkscape:label="text"
        id="layer8"
        inkscape:groupmode="layer">
@@ -715,19 +744,34 @@
   </g>
   <g
      sodipodi:insensitive="true"
-     inkscape:label="page area overlay"
+     inkscape:label="page area hard cover size"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:none;opacity:0.221441">
+     style="display:none;opacity:0.3">
     <rect
-       style="fill:#00ffff;stroke-width:0.188363"
+       style="fill:#00ffff;stroke-width:0.197666"
        id="rect833"
-       width="231.5"
-       height="148"
-       x="35.000004"
-       y="35" />
+       width="245"
+       height="154"
+       x="28.250002"
+       y="31.999998" />
   </g>
   <g
+     sodipodi:insensitive="true"
+     style="display:none;opacity:0.3"
+     id="g1001"
+     inkscape:groupmode="layer"
+     inkscape:label="page area with bleed">
+    <rect
+       y="16.999998"
+       x="13.250002"
+       height="184"
+       width="275"
+       id="rect999"
+       style="fill:#00ffff;stroke-width:0.22891" />
+  </g>
+  <g
+     style="display:inline"
      inkscape:groupmode="layer"
      inkscape:label="Printing Marks"
      id="printing-marks"
@@ -738,71 +782,71 @@
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25"
          id="cropTL1"
-         d="M 35.00000399999999,15.0 L 35.00000399999999,5.0" />
+         d="m 28.250002,16.999998 v -10" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25"
          id="cropTL2"
-         d="M 15.00000399999999,35.0 L 5.00000399999999,35.0" />
+         d="m 13.250002,31.999998 h -10" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25"
          id="cropTR1"
-         d="M 266.500004,15.0 L 266.500004,5.0" />
+         d="m 273.25,16.999998 v -10" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25"
          id="cropTR2"
-         d="M 286.500004,35.0 L 296.500004,35.0" />
+         d="m 288.25,31.999998 h 10" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25"
          id="cropBL1"
-         d="M 35.00000399999999,203.0 L 35.00000399999999,213.0" />
+         d="m 28.250002,201 v 10" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25"
          id="cropBL2"
-         d="M 15.00000399999999,183.0 L 5.00000399999999,183.0" />
+         d="m 13.250002,186 h -10" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25"
          id="cropBR1"
-         d="M 266.500004,203.0 L 266.500004,213.0" />
+         d="m 273.25,201 v 10" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.25"
          id="cropBR2"
-         d="M 286.500004,183.0 L 296.500004,183.0" />
+         d="m 288.25,186 h 10" />
     </g>
     <g
        inkscape:label="BleedMarks"
        id="BleedMarks">
       <path
-         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
          id="bleedTL1"
-         d="M 15.00000399999999,15.0 L 15.00000399999999,5.0" />
+         d="m 13.250002,16.999998 v -10" />
       <path
-         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
          id="bleedTL2"
-         d="M 15.00000399999999,15.0 L 5.00000399999999,15.0" />
+         d="m 13.250002,16.999998 h -10" />
       <path
-         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
          id="bleedTR1"
-         d="M 286.500004,15.0 L 286.500004,5.0" />
+         d="m 288.25,16.999998 v -10" />
       <path
-         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
          id="bleedTR2"
-         d="M 286.500004,15.0 L 296.500004,15.0" />
+         d="m 288.25,16.999998 h 10" />
       <path
-         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
          id="bleedBL1"
-         d="M 15.00000399999999,203.0 L 15.00000399999999,213.0" />
+         d="m 13.250002,201 v 10" />
       <path
-         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
          id="bleedBL2"
-         d="M 15.00000399999999,203.0 L 5.00000399999999,203.0" />
+         d="m 13.250002,201 h -10" />
       <path
-         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
          id="bleedBR1"
-         d="M 286.500004,203.0 L 286.500004,213.0" />
+         d="m 288.25,201 v 10" />
       <path
-         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
          id="bleedBR2"
-         d="M 286.500004,203.0 L 296.500004,203.0" />
+         d="m 288.25,201 h 10" />
     </g>
   </g>
 </svg>
